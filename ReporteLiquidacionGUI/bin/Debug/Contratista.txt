@@ -1,0 +1,4 @@
+10023;eduer;ProDesarrollo Fronterizo;6/11/2019;20000
+10023234;eduer;ProDesarrollo Fronterizo;6/11/2019;20000
+10023234453;eduer;Pro-Adulto Mayor;6/11/2019;20000
+1000;YESITH;ProDesarrollo Fronterizo;6/11/2019;67000

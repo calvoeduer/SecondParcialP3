@@ -1,0 +1,25 @@
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\DAL\bin\Debug\DAL.dll
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\DAL\bin\Debug\DAL.pdb
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\DAL\bin\Debug\Entity.dll
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\DAL\bin\Debug\Entity.pdb
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\DAL\obj\Debug\DAL.dll
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\DAL\obj\Debug\DAL.pdb
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\DAL\bin\Debug\DAL.dll
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\DAL\bin\Debug\DAL.pdb
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\DAL\bin\Debug\Entity.dll
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\DAL\bin\Debug\Entity.pdb
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\DAL\obj\Debug\DAL.dll
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\DAL\obj\Debug\DAL.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\DAL\bin\Debug\DAL.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\DAL\bin\Debug\DAL.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\DAL\bin\Debug\Entity.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\DAL\bin\Debug\Entity.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\DAL\obj\Debug\DAL.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\DAL\obj\Debug\DAL.pdb

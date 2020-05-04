@@ -1,0 +1,52 @@
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\ReporteLiquidacionGUI.exe.config
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\ReporteLiquidacionGUI.exe
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\ReporteLiquidacionGUI.pdb
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\BLL.dll
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\Entity.dll
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\DAL.dll
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\BLL.pdb
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\Entity.pdb
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\DAL.pdb
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.csprojAssemblyReference.cache
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.FrmPrincipal.resources
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.Properties.Resources.resources
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.csproj.GenerateResource.cache
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.csproj.CopyComplete
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.exe
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.pdb
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.Consulta.resources
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\ReporteLiquidacionGUI.exe.config
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\ReporteLiquidacionGUI.exe
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\ReporteLiquidacionGUI.pdb
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\BLL.dll
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\Entity.dll
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\DAL.dll
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\BLL.pdb
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\Entity.pdb
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\DAL.pdb
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.Consulta.resources
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.FrmPrincipal.resources
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.Properties.Resources.resources
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.csproj.CopyComplete
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.exe
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\ReporteLiquidacionGUI.exe.config
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\ReporteLiquidacionGUI.exe
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\ReporteLiquidacionGUI.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\BLL.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\Entity.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\DAL.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\BLL.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\Entity.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\bin\Debug\DAL.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.csprojAssemblyReference.cache
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.Consulta.resources
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.FrmPrincipal.resources
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.Properties.Resources.resources
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.csproj.GenerateResource.cache
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.csproj.CopyComplete
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.exe
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\ReporteLiquidacionGUI\obj\Debug\ReporteLiquidacionGUI.pdb

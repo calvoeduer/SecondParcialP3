@@ -1,0 +1,16 @@
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\Entity\bin\Debug\Entity.dll
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\Entity\bin\Debug\Entity.pdb
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\Entity\obj\Debug\Entity.dll
+C:\Users\Eduer\source\repos\ReporteLiquidacionGUI\Entity\obj\Debug\Entity.pdb
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\Entity\bin\Debug\Entity.dll
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\Entity\bin\Debug\Entity.pdb
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\Entity\obj\Debug\Entity.dll
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\Entity\obj\Debug\Entity.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\Entity\bin\Debug\Entity.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\Entity\bin\Debug\Entity.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\Entity\obj\Debug\Entity.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\Parciales\parcial 2\ReporteLiquidacionGUI\Entity\obj\Debug\Entity.pdb
